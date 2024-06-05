@@ -1,1 +1,2 @@
-1. White Pawn from e2 to e4
+1. White Pawn from d2 to d4
+2. Black Pawn from f7 to f5
